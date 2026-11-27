@@ -1,0 +1,1 @@
+- `pyrite timeline` and `pyrite-read timeline` now return the normal empty result envelope in machine formats when no dated entries match, instead of printing a prose sentence. Rich output is unchanged (#1947).
